@@ -62,11 +62,11 @@ dotfiles/
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:yourusername/dotfiles.git ~/dotfiles
+git clone git@github.com:u11kumar/Umesh-machine.git ~/dotfiles
 cd ~/dotfiles
 ```
 
-> 💡 **Note**: Replace `yourusername` with your actual GitHub username.  
+> 💡 **Note**: Replace `UMESH KUMAR` with your actual GitHub username.  
 > If you haven't set up SSH keys yet, check the [SSH Setup](#-ssh-setup) section below.
 
 ### 2. Run the installation script
